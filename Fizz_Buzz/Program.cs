@@ -23,7 +23,7 @@ class Program
             {
                 Console.WriteLine(i);
             }
-            i++;
+            
         }
     }
 
